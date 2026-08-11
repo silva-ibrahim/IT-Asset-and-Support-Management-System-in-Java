@@ -1,0 +1,8 @@
+# NetBeans build output
+TestITSupportSystem/build/
+
+# NetBeans private configuration
+TestITSupportSystem/nbproject/private/
+
+# Compiled Java files
+*.class
