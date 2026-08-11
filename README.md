@@ -106,7 +106,7 @@ https://coursera.org/verify/OH51M0V346IE
 
 **IBM Badge:**
 
-https://www.credly.com/earner/earned/badge/2a4a6b73-6c1f-4787-b793-442c64193357
+[View Credly Badge](https://www.credly.com/badges/2a4a6b73-6c1f-4787-b793-442c64193357/public_url)
 
 ## Author
 
